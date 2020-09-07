@@ -6,7 +6,7 @@ Private repository for @mariasokolova
 2. [App screenshot](https://mariasokolova.github.io/RssVirtualKeyboard/image/keyboard.png)
 
 3. Deploy:
-[Virtual Keyboard](https://mariasokolova.github.io/RssVirtualKeyboard/)
+[Virtual Keyboard](https://mariasokolova.github.io/Virtual-Keyboard/)
 
 4. Done 28.05.2020 (deadline 28.05.2020 till 18:00 (Poland))
 
